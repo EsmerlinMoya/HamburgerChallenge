@@ -14,6 +14,7 @@
 		BC294440213AEE720044819D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC29443E213AEE720044819D /* LaunchScreen.storyboard */; };
 		BC29444B213AEE720044819D /* HamburgerChallengeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC29444A213AEE720044819D /* HamburgerChallengeTests.swift */; };
 		BC294456213AEE720044819D /* HamburgerChallengeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC294455213AEE720044819D /* HamburgerChallengeUITests.swift */; };
+		BC294464213AEF360044819D /* Datos.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC294463213AEF360044819D /* Datos.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		BC294451213AEE720044819D /* HamburgerChallengeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HamburgerChallengeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC294455213AEE720044819D /* HamburgerChallengeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HamburgerChallengeUITests.swift; sourceTree = "<group>"; };
 		BC294457213AEE720044819D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BC294463213AEF360044819D /* Datos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Datos.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				BC29443C213AEE720044819D /* Assets.xcassets */,
 				BC29443E213AEE720044819D /* LaunchScreen.storyboard */,
 				BC294441213AEE720044819D /* Info.plist */,
+				BC294463213AEF360044819D /* Datos.swift */,
 			);
 			path = HamburgerChallenge;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				BC294438213AEE700044819D /* ViewController.swift in Sources */,
 				BC294436213AEE700044819D /* AppDelegate.swift in Sources */,
+				BC294464213AEF360044819D /* Datos.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

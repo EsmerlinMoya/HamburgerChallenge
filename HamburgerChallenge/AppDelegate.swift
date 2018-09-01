@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  HamburgerChallenge
 //
-//  Created by merlin Moya on 9/1/18.
-//  Copyright © 2018 merlin Moya. All rights reserved.
+//  Created by Esmerlin Moya on 9/1/18.
+//  Copyright © 2018 Esmerlin Moya. All rights reserved.
 //
 
 import UIKit
